@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "moip",
+    "slug": "moip",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "org.name.moip"
+    }
+  },
+  "name": "moip"
+}
